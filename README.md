@@ -46,5 +46,4 @@ src="https://img.shields.io/github/followers/KerniusSur?logo=github&style=for-th
 <p align="left">
 <a href="http://www.github.com/KerniusSur"><img src="https://github-readme-stats.vercel.app/api?username=KerniusSur&show_icons=true&hide=stars,issues,&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=ef4444&bg_color=171717&hide_border=true&show_icons=true" alt="KerniusSur's GitHub stats" /></a>
 <a href="http://www.github.com/KerniusSur"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KerniusSur&stroke=ffffff&background=171717&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-<a href="https://github.com/KerniusSur" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KerniusSur&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=ef4444&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </p>
