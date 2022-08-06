@@ -5,7 +5,6 @@ Full-Stack Web Developer & CS Student
 -------------------------------------
 
 * 🌍  I'm based in Vilnius, Lithuania
-* 🖥️  See my portfolio at [kernius.dev](http://kernius.dev)
 * ✉️  You can contact me at [kernius.survila@gmail.com](mailto:kernius.survila@gmail.com)
 * ⚡  I'm lazy, but in a good way...
 
