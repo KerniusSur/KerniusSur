@@ -1,17 +1,29 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kernius
-===============================================================================================================================
+<h1 align="center">Hey, I'm Kernius</h1>
+<h3 align="center">Full Stack Web Developer | Computer Science Student</h3>
 
-Full-Stack Web Developer & CS Student
--------------------------------------
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kerniussur" alt="kerniussur" /></a> </p> -->
+
+- 🔭 I’m currently working on [Graffinity (University project)](https://github.com/graffinity)
+
+- 🌱 I’m currently learning **Next.js, TravisCI**
+
+- 👨‍💻 All of my projects will soon be available at [https://kernius.dev](https://kernius.dev)
+
+- 📫 How to reach me **kernius.survila@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/kerniussurvila/](https://www.linkedin.com/in/kerniussurvila/)
 
 * 🌍  I'm based in Vilnius, Lithuania
-* ✉️  You can contact me at [kernius.survila@gmail.com](mailto:kernius.survila@gmail.com)
+
 * ⚡  I'm lazy, but in a good way...
+
+<br/>
 
 <a href="https://www.github.com/KerniusSur" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/KerniusSur?logo=github&style=for-the-badge&color=ef4444&labelColor=171717" /></a>
 
-<br/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kerniussur&label=Profile%20views&color=0e75b6&style=flat" alt="kerniussur" /> </p>
+
 
 ## Skills
 
@@ -277,7 +289,14 @@ src="https://img.shields.io/github/followers/KerniusSur?logo=github&style=for-th
 
 ## Socials
 
-<p align="left"> <a href="https://www.github.com/KerniusSur" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/kerniussurvila" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> 
+    <a href="https://linkedin.com/in/kerniussurvila" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kerniussurvila" height="30" width="40" />
+    </a>
+    <a href="https://instagram.com/kerniusboof" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kerniusboof" height="30" width="40" />
+    </a>
+</p>
 
 ### Badges
 
