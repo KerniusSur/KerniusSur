@@ -5,17 +5,15 @@
 
 - 🔭 I’m currently working on [Graffinity (University project)](https://github.com/graffinity)
 
-- 🌱 I’m currently learning **Next.js, TravisCI**
-
 - 👨‍💻 All of my projects will soon be available at [https://kernius.dev](https://kernius.dev)
 
-- 📫 How to reach me **kernius.survila@gmail.com**
+- 📄 Learn more about my experiences on [LinkedIn](https://www.linkedin.com/in/kerniussurvila/)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/kerniussurvila/](https://www.linkedin.com/in/kerniussurvila/)
+- 🌱 I’m currently learning **Next.js, TravisCI** & Everything Inbetween
 
-* 🌍  I'm based in Vilnius, Lithuania
+- 🌍  I'm based in Vilnius, Lithuania
 
-* ⚡  I'm lazy, but in a good way...
+- ⚡  I'm lazy, but in a good way...
 
 <br/>
 
@@ -281,22 +279,32 @@ src="https://img.shields.io/github/followers/KerniusSur?logo=github&style=for-th
 			height="40"
 		/>
 	</a>
-  
-  ---
 </p>
 
 <br/>
 
-## Socials
+## Connect with me  
 
-<p align="left"> 
-    <a href="https://linkedin.com/in/kerniussurvila" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kerniussurvila" height="30" width="40" />
-    </a>
-    <a href="https://instagram.com/kerniusboof" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kerniusboof" height="30" width="40" />
-    </a>
-</p>
+<a href="https://github.com/KerniusSur" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/kerniussurvila" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="mailto:kernius.survila@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+
+<br/>
+
+<a href="https://instagram.com/kerniusboof" target="_blank">
+<img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/SurvilaKernius" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+
+<br/>  
 
 ### Badges
 
