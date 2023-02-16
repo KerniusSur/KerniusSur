@@ -3,7 +3,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kerniussur" alt="kerniussur" /></a> </p> -->
 
-- 🔭 I’m currently working on [Graffinity (University project)](https://github.com/graffinity)
+- 🔭 I’m currently working on [FairWear | (University project)](https://github.com/fairwear)
 
 - 👨‍💻 All of my projects will soon be available at [https://kernius.dev](https://kernius.dev)
 
