@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [FairWear | (University project)](https://github.com/fairwear)
 
-- 👨‍💻 All of my projects will soon be available at [https://kernius.dev](https://kernius.dev)
+<!-- - 👨‍💻 All of my projects will soon be available at [https://kernius.dev](https://kernius.dev) -->
 
 - 📄 Learn more about my experiences on [LinkedIn](https://www.linkedin.com/in/kerniussurvila/)
 
