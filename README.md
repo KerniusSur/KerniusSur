@@ -9,7 +9,7 @@
 
 - 📄 Learn more about my experiences on [LinkedIn](https://www.linkedin.com/in/kerniussurvila/)
 
-- 🌱 I’m currently learning **Next.js, TravisCI** & Everything Inbetween
+<!-- - 🌱 I’m currently learning **Next.js, TravisCI** & Everything Inbetween -->
 
 - 🌍  I'm based in Vilnius, Lithuania
 
