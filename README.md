@@ -3,7 +3,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kerniussur" alt="kerniussur" /></a> </p> -->
 
-- 🔭 I’m currently working on [Lengva App](https://lengva.app)
+- 🔭 I’m currently working on Hive Note (Personal Project)
 
 <!-- - 👨‍💻 All of my projects will soon be available at [https://kernius.dev](https://kernius.dev) -->
 
